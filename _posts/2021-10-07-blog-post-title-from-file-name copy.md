@@ -7,7 +7,7 @@ Unity is a cross-platform game engine (smartphone, computer, video game consoles
 
 ### What did we do ?
 
-Nous avons fait quelques workshops with [Léa Saunier](https://www.linkedin.com/in/l%C3%A9a-saunier-657060129/)  in order to gain hands on experience on Unity. Here are some ilusration of what we managed to do :
+Nous avons fait quelques workshops with [Léa Saunier](https://www.linkedin.com/in/l%C3%A9a-saunier-657060129/)  in order to gain hands on experience on Unity. Here are some ilusration of what we managed to do :\n
 ![View](https://raw.githubusercontent.com/Tarichikato/pierre_lourdelet_mastervar/gh-pages/images/View1.PNG)
 
 
